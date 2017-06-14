@@ -1,0 +1,55 @@
+body {
+	padding-top: 70px;
+	margin: 0;
+	text-align: center;
+	font-family:;
+	background-color: #F0F0FF;
+}
+
+table {
+	margin: auto;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background-color: darkorange;
+	text-align: center;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.title {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 60;
+	width: 600;
+	text-align: center;
+	font-size: 24pt;
+}
+
+.col1 {
+	position: absolute;
+	left: 0;
+	top: 290;
+	bottom: 500;
+	width: 200;
+}
+
+.col2 {
+	position: absolute;
+	left: 200;
+	top: 290;
+	bottom: 500;
+	width: 200;
+}
