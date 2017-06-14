@@ -1,0 +1,28 @@
+
+body {
+	background-color: #EBF5FB;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	
+}
+
+li {
+	float: left;
+}
+
+li a {
+	text-decoration: none;
+	display: block;
+	color: #000;
+	text-align: center;
+	padding: 8px;
+	background-color: #
+}
+.nav {
+	background-color: #5DADE2;
+}
